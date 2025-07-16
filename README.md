@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PlasmFlo
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 👀 I’m interested in Learning, Developing, and Engineering. 
+- 🌱 I’m currently learning Python, Javascript and C++
 - 💞️ I’m looking to collaborate on all sorts of projects in the upcoming future. As I improve of course.
 - 📫 How to reach me, You can reach me through my Instagram. That's my main src of contact.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I may seem abit mono-toned or boring but when we get to know each other I think I can be somewhat cool or interesting.
+- ⚡ Fun fact: 
 - I'm a scorpio 
 
 
